@@ -52,6 +52,8 @@ https://arxiv.org/abs/1705.00648 [cs.CL]
 
 - Start flask web server: `python app.py`
 - The server will start on the address http://127.0.0.1:5000 [if port 5000 is not occupied]
+### Screenshot
+<img width="583" height="752" alt="image" src="https://github.com/user-attachments/assets/5bf3ef4b-cb1d-4486-b9e7-02a81f470bbc" />
 
 ### References
 - K Rapoza. 2017. Can âĂŸfake newsâĂŹ impact the stock market? (2017).

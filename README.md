@@ -55,7 +55,8 @@ https://arxiv.org/abs/1705.00648 [cs.CL]
 ### Screenshot
 <img width="583" height="752" alt="image" src="https://github.com/user-attachments/assets/5bf3ef4b-cb1d-4486-b9e7-02a81f470bbc" />
 
-### References
-- K Rapoza. 2017. Can âĂŸfake newsâĂŹ impact the stock market? (2017).
-- https://kavita-ganesan.com/news-classifier-with-logistic-regression-in-python/#.X7XeFBNKhQK
+<img width="772" height="417" alt="image" src="https://github.com/user-attachments/assets/c2e264fe-f21e-4d23-808c-bc1cdf90a600" />  
+
+<img width="771" height="418" alt="image" src="https://github.com/user-attachments/assets/ade93b76-8a94-4844-bace-54d284cf2292" />
+
 
